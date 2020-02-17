@@ -12,3 +12,5 @@ function opposite(number) {
 }
 
 console.log(opposite(1))
+
+// Completed

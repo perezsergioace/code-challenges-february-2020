@@ -17,3 +17,5 @@ function differenceInAges(ages) {
 
 console.log(differenceInAges([ 82, 15, 6, 38, 35 ]))
 console.log(differenceInAges([ 57, 99, 14, 32 ]))
+
+// Completed

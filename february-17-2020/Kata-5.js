@@ -9,3 +9,5 @@ console.log(removeChar('eloquent'))
 console.log(removeChar('country'))
 console.log(removeChar('person'))
 console.log(removeChar('place'))
+
+// Completed

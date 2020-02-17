@@ -22,3 +22,5 @@ function superSize(num){
 
 console.log(superSize(69))
 console.log(superSize(513))
+
+// Completed
