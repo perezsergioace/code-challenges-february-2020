@@ -16,3 +16,5 @@ function findLongest(str) {
 }
 
 console.log(findLongest("The quick white fox jumped around the massive dog"))
+
+// Completed
