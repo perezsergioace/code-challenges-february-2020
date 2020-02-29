@@ -17,3 +17,5 @@ function squareSum(numbers) {
 
 console.log(squareSum([ 1, 2 ]))
 console.log(squareSum([ 0, 3, 4, 5 ]))
+
+// Completed
